@@ -60,9 +60,9 @@
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+/* .prev:hover, .next:hover {
   background-color: rgba(203, 194, 194, 0.8);
-}
+} */
 
 /* Caption text */
 .text {
